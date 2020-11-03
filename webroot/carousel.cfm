@@ -2,7 +2,7 @@
 <div id="carousel-desc">
 <h2>Featured Books</h2>
 <p>
-Curabitur finibus finibus velit id laoreet. Aliquam quis urna varius, rutrum nulla eu, volutpat diam. Suspendisse ac maximus tellus, ac pellentesque turpis.Duis massa lacus, convallis quis dui sed, ultricies laoreet purus. Curabitur scelerisque vestibulum nisi a vestibulum. Cras a ex mi.</p>
+Curabitur finibus finibus velit id laoreet. Aliquam quis urna varius, rutrum nulla eu, volutpat diam. Suspendisse ac maximus tellus, ac pellentesque turpis.Duis massa lacus, convallis quis dui sed, ultricies laoreet purus. Curabitur scelerisque vestibulum nisi a vestibulum. Cras a ex mis.</p>
 
 </div>
 <div id="readDeseCarousel" class="carousel slide" data-ride="carousel" data-interval="10000">
