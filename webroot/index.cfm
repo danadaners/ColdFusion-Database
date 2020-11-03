@@ -1,14 +1,20 @@
 
 <!doctype html>
 <html>
+
 <head>
     <meta charset="utf-8">
     <title>Read These Books!</title>
     <link href="../includes/bootstrap/css/bootstrap.css" rel="stylesheet"/>
-
     <link href="../includes/css/mycss.css" rel="stylesheet"/>
     <script src="../includes/js/jQuery/jquery-1.11.3.min.js" type="text/javascript"></script>
     <script src="../includes/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+
+
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@300;400&display=swap" rel="stylesheet">
+
+
 
 </head>
 
@@ -26,6 +32,10 @@
 
  <cfinclude template="carousel.cfm">
         </div>
+
+<div id="genrenav" class="container">
+<cfinclude template="genrenav.cfm">
+</div>
 
 
 

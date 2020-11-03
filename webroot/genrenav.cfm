@@ -1,10 +1,14 @@
 
-// <ul class="nav nav-stacked">
-//     <li><a>Childrens's Books</a></li>
-//     <li><a>Mysteries</a></li>
-//     <li><a>Non-Fiction</a></li>
-//     <li><a>Self Help</a></li>
-//     <li><a>Philosophy</a></li>
-//     <li><a>Religion</a></li>
-//     <li><a>Technology</a></li>
-// </ul>
+<ul class="genrenav">
+<h3>Browse Books by Genre</h3>
+    <button>Fiction</button>
+    <button>Children</button>
+    <button>Mysteries</button>
+    <button>Non-Fiction</button>
+    <button>Self Help</button>
+    <button>Bibliographies</button>
+    <button>Religion</button>
+    <button>Technology</button>
+</ul>
+
+
