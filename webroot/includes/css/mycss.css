@@ -18,17 +18,16 @@ body {
 /* Header */
 
 #topHeader {
-  font-size: 15px;
+  font-size: 12px;
   background-color: black;
   color: white;
-  padding: 1%;
+  padding: 10px;
   flex-shrink: 1;
   margin: 0;
   width: 100%;
-  font-family: 'Arial';
-  font-family: 'IBM Plex Serif', serif;
-
-
+  font-family: "IBM Plex Serif", serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 /* Top Navigation Bar */
@@ -38,8 +37,8 @@ body {
   width: 100%;
   overflow: hidden;
   padding: 0 2%;
-  font-family: 'IBM Plex Serif', serif;
-
+  padding-top: 10px;
+  font-family: "IBM Plex Serif", serif;
 }
 
 .topnav a {
@@ -118,10 +117,9 @@ body {
   color: white;
   margin: 0;
   padding-top: 5%;
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-weight: bold;
   font-size: 50px;
-
 }
 
 #carousel-desc p {
@@ -129,7 +127,7 @@ body {
   color: white;
   text-align: center;
   margin: 0;
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
 }
 
 #readDeseCarousel {
@@ -160,38 +158,40 @@ body {
 }
 
 /* Genre Navigation */
-#genrenav{
-text-align: center;
+#genrenav {
+  text-align: center;
   margin: 0;
   padding: 2%;
   width: 100%;
 }
 
 #genrenav button {
-  background-color: #24305E;
-  border: none;
+  background-color: #274785;
+  border: 1px solid #24305e;
   color: white;
-  padding: 0.8%;
-  border-radius: 10px;
+  padding: 1%;
   margin: 1%;
   cursor: pointer;
   width: 150px;
+  font-family: "IBM Plex Serif", serif;
+  text-transform: uppercase;
+  font-size: 10px;
+  letter-spacing: 2px;
 }
 
-/* Clear floats (clearfix hack) */
+#genrenav #morebutton {
+  background-color: #24305e;
+}
+
 #genrenav:after {
   content: "";
   clear: both;
   display: table;
 }
 
-/* Add a background color on hover */
 #genrenav button:hover {
   background-color: black;
 }
-
-
-
 
 /* Footer */
 

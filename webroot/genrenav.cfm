@@ -2,13 +2,11 @@
 <ul class="genrenav">
 <h3>Browse Books by Genre</h3>
     <button>Fiction</button>
-    <button>Children</button>
-    <button>Mysteries</button>
+    <button>Children's</button>
     <button>Non-Fiction</button>
-    <button>Self Help</button>
-    <button>Bibliographies</button>
-    <button>Religion</button>
-    <button>Technology</button>
+    <button>Bibliography</button>
+    <button id="morebutton">More Genres</button>
+
 </ul>
 
 

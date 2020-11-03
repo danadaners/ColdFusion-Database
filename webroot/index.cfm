@@ -10,6 +10,10 @@
     <script src="../includes/js/jQuery/jquery-1.11.3.min.js" type="text/javascript"></script>
     <script src="../includes/bootstrap/js/bootstrap.js" type="text/javascript"></script>
 
+<script src="https://kit.fontawesome.com/adfae6cefa.js" crossorigin="anonymous"></script>
+
+
+
 
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@300;400&display=swap" rel="stylesheet">
