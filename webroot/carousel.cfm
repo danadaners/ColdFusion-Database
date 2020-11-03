@@ -20,13 +20,13 @@ Curabitur finibus finibus velit id laoreet. Aliquam quis urna varius, rutrum nul
         <div class="item active">
             <img src="https://lithub.com/wp-content/uploads/2018/12/educated.jpg" alt="..."
                  style="margin-left:auto; margin-right:auto">
-            </div>
+
         </div>
         <div class="item">
             <img src="https://lithub.com/wp-content/uploads/2018/12/9781788731577-4f24c93871d376efaf059ac12bc3811c.jpg" alt="..."
                  style="margin-left:auto; margin-right:auto">
             </div>
-</div>
+
     </div>
 
     <!-- Controls -->
