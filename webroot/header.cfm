@@ -1,1 +1,1 @@
-Dana's Bookstore
+SALE: BUY 2, GET 1 FREE
