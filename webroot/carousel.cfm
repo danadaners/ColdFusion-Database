@@ -15,20 +15,20 @@
     <div class="carousel-inner" role="listbox">
         <div class="item active">
             <img src="../includes/classimages/AOGG.jpg" alt="..."
-                 style="margin-left:auto; margin-right:auto">
+                 style="margin-left:auto; margin-right:auto">a
             <div class="carousel-caption">
                 <a>Anne of Green Gables</a>
             </div>
         </div>
         <div class="item">
-            <img src="../includes/classimages/AmeliaBedelia.jpg" alt="..."
+            <img src="/assets/img/lucee-logo.png" alt="..."
                  style="margin-left:auto; margin-right:auto">
             <div class="carousel-caption">
                 <a href="">Amelia Bedelia</a>
             </div>
         </div>
         <div class="item">
-            <img src="../includes/classimages/EncyclopediaBrown.jpg" alt="..."
+            <img src="includes/classimages/EncyclopediaBrown.jpg" alt="..."
                  style="margin-left:auto; margin-right:auto">
             <div class="carousel-caption">
                 <a href="">Encyclopedia Brown</a>

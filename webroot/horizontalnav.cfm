@@ -10,12 +10,12 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="index.html">
-                <img src="/../includes/classimages/rdb.png"/>
+                <img src="../includes/classimages/rdb.png"/>
             </a>
         </div>
         <div class="collapse navbar-collapse" id="readDeseNav">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="index.html">Home</a></li>
+                <li class="active"><a href="index.cfm">Home</a></li>
                 <li><a>Store Information</a></li>
                 <li><a>Highlighted Favorites</a></li>
                 <li><a>Events</a></li>

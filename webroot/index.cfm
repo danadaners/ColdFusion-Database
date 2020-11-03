@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Untitled Document</title>
+    <title>Bookkeeper</title>
     <link href="../includes/bootstrap/css/bootstrap.css" rel="stylesheet"/>
     <link href="../includes/css/mycss.css" rel="stylesheet"/>
     <script src="../includes/js/jQuery/jquery-1.11.3.min.js" type="text/javascript"></script>
