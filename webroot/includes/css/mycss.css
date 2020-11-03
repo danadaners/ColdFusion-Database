@@ -106,6 +106,21 @@ body {
 
 /* Carousel */
 
+#carousel-desc h2{
+  text-align: center;
+}
+
+#carousel-desc p{
+  text-align: center;
+  padding: 2%;
+}
+
+#readDeseCarousel img{
+  height: 300px !important;
+  width: auto;
+}
+
+
 #carousel-wrap {
   background-color: #eddcd2;
   align-self: center;

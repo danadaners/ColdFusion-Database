@@ -1,30 +1,32 @@
  <cfparam name="p" default="carousel" />
 
-<div id="readDeseCarousel" class="carousel slide" data-ride="carousel">
+<div id="carousel-desc">
+<h2>Featured Books</h2>
+<p>
+Curabitur finibus finibus velit id laoreet. Aliquam quis urna varius, rutrum nulla eu, volutpat diam. Suspendisse ac maximus tellus, ac pellentesque turpis.Duis massa lacus, convallis quis dui sed, ultricies laoreet purus. Curabitur scelerisque vestibulum nisi a vestibulum. Cras a ex mi.</p>
+
+</div>
+<div id="readDeseCarousel" class="carousel slide" data-ride="carousel" data-interval="10000">
     <!-- Indicators -->
     <ol class="carousel-indicators">
         <li data-target="#readDeseCarousel" data-slide-to="0" class="active"
-            title="Anne of Green Gables"></li>
-        <li data-target="#readDeseCarousel" data-slide-to="1" title="Amelia Bedelia"></li>
-        <li data-target="#readDeseCarousel" data-slide-to="2" title="Encyclopedia Brown"></li>
-        <li data-target="#readDeseCarousel" data-slide-to="3" title="Store Hours"></li>
+            title="Slide1"></li>
+        <li data-target="#readDeseCarousel" data-slide-to="1" title="Slide2"></li>
+
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <img src="../includes/classimages/AOGG.jpg" alt="..."
+            <img src="https://lithub.com/wp-content/uploads/2018/12/educated.jpg" alt="..."
                  style="margin-left:auto; margin-right:auto">
-            <div class="carousel-caption">
             </div>
         </div>
         <div class="item">
-            <img src="includes/classimages/EncyclopediaBrown.jpg" alt="..."
+            <img src="https://lithub.com/wp-content/uploads/2018/12/9781788731577-4f24c93871d376efaf059ac12bc3811c.jpg" alt="..."
                  style="margin-left:auto; margin-right:auto">
-            <div class="carousel-caption">
             </div>
-        </div>
-
+</div>
     </div>
 
     <!-- Controls -->
