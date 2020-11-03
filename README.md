@@ -1,7 +1,7 @@
 # Book Management Site
 Book database management website.
 
-[You can take a look at the final deployed app here] ("https://cf-final.herokuapp.com/")
+**[Click here to take a look at the final deployed app!](https://cf-final.herokuapp.com/)**
 
 # Tools Used
 - ColdFusion
@@ -10,4 +10,4 @@ Book database management website.
 
 # Resources
 - This application uses this template to deploy to Heroku: [template by mikesprague](https://github.com/mikesprague/lucee5-heroku)
-- Color scheme from [here]("https://visme.co/blog/website-color-schemes/")
+- Color scheme from [here](https://visme.co/blog/website-color-schemes/)
