@@ -1,0 +1,61 @@
+/* CSS Document */
+
+html,
+body {
+  position: relative;
+  max-height: 100%;
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overscroll-behavior: none;
+  background-color: #a8d0e6;
+  display: inline-block;
+  text-decoration: none;
+
+}
+
+/* Header */
+
+#topHeader {
+  font-size: 12px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  flex-shrink: 1;
+  margin: 0;
+  width: 100%;
+  font-family: "IBM Plex Serif", serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  overflow-x: hidden;
+  text-decoration: none;
+
+}
+
+#horizontalnav{
+  width: 100%;
+  margin: 0;
+  overflow-x: hidden
+}
+
+/* Footer */
+
+#footer {
+  background-color: #374785;
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  padding: 1%;
+  min-width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  overflow: hidden;
+  display: inline-block;
+  font-family: "IBM Plex Serif", serif;
+
+}

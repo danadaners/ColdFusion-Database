@@ -1,7 +1,7 @@
 # Book Management Site
 Book database management website.
 
-**[Click here to take a look at the final deployed app!](https://cf-final.herokuapp.com/)**
+[You can take a look at the final deployed app here] (https://cf-final.herokuapp.com/)
 
 # Tools Used
 - ColdFusion

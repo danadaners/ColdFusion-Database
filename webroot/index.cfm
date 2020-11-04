@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <title>Read These Books!</title>
     <link href="../includes/bootstrap/css/bootstrap.css" rel="stylesheet"/>
-    <link href="../includes/css/mycss.css" rel="stylesheet"/>
+    <link href="../includes/css/index.css" rel="stylesheet"/>
     <script src="../includes/js/jQuery/jquery-1.11.3.min.js" type="text/javascript"></script>
     <script src="../includes/bootstrap/js/bootstrap.js" type="text/javascript"></script>
 
@@ -23,7 +23,7 @@
 </head>
 
 <body>
-        <div id="topHeader" class="row">
+        <div id="topHeader" class="container">
              <cfinclude template="header.cfm">
 
         </div>
@@ -35,16 +35,15 @@
 <div id="carousel-wrap" class="container">
 
  <cfinclude template="carousel.cfm">
-        </div>
+</div>
 
-<div id="genrenav" class="container">
+<div id="genrenavigation">
 <cfinclude template="genrenav.cfm">
 </div>
 
 
-
-            <div id="footer" class="row">
-            <cfinclude template="footer.cfm">
-        </div>
+<div id="footer" class="container">
+<cfinclude template="footer.cfm">
+</div>
 </body>
 </html>

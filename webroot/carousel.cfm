@@ -1,3 +1,5 @@
+ <link href="../includes/css/carousel.css" rel="stylesheet"/>
+
  <cfparam name="p" default="carousel" />
 <div id="carousel-desc">
 <h2>Featured Books</h2>

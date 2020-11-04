@@ -1,11 +1,13 @@
+<link href="../includes/css/genrenav.css" rel="stylesheet"/>
+
 
 <ul class="genrenav">
-<h3>Browse Books by Genre</h3>
+<h3>Browse Popular Books</h3>
     <button>Fiction</button>
-    <button>Children's</button>
     <button>Non-Fiction</button>
-    <button>Bibliography</button>
-    <button id="morebutton">More Genres</button>
+    <button>Young Adult</button>
+
+    <button id="morebutton">All Books</button>
 
 </ul>
 
